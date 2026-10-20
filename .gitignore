@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+results/
+analysis.txt
+analysis.json
+avb_mode_reproduction.py
+*.elf
+*.efi
+*.pe
+*.mbn
+*.bin
+*.img
